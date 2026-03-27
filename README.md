@@ -69,8 +69,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add your link)
-* Email: (Add your email)
+* LinkedIn: www.linkedin.com/in/mahnish-sankrit-3aa4382b1
+* Email: mahnishsankrit@gmail.com
 
 ---
 
