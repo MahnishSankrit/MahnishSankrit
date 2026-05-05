@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Mahnish Sankrit
 
-💻 Frontend Developer | React Enthusiast | Problem Solver
+💻 Full stack Developer | React Enthusiast | Problem Solver
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🎓 Computer Science Student
-* ⚛️ Focused on **React.js & Frontend Development**
+* ⚛️ Focused on **React.js & express**
 * 🧠 Currently exploring **Backend (Node.js, SQL)**
 * 🏆 Participated in multiple **Hackathons**
 * 🚀 Building real-world projects to improve skills
@@ -20,15 +20,18 @@
 
 * HTML, CSS, JavaScript
 * React.js
+* next.js
 
 **Backend (Learning):**
 
 * Node.js
 * Express.js
+  
 
 **Database:**
 
 * MySQL
+* MongoDb
 
 **Tools:**
 
@@ -61,9 +64,9 @@
 
 ## 📊 GitHub Stats
 
-![Mahnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Mahnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahnishSankrit\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahnishSankrit\&layout=compact)
 
 ---
 
