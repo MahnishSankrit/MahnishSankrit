@@ -109,12 +109,6 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
   * Greedy
   * Dynamic Programming
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
 ---
 
 ## 🏆 Hackathons
@@ -159,14 +153,6 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 </p>
 
 > The contribution snake requires a GitHub Action in your profile repository to generate the SVG.
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats"/>
-</p>
 
 ---
 
